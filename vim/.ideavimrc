@@ -1,0 +1,11 @@
+" vimrc for IntelliJ IDEA plugin
+
+set scrolloff=5
+
+set incsearch
+
+map Q gq
+
+set number relativenumber
+
+set clipboard^=unnamed,unnamedplus
